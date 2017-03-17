@@ -190,6 +190,7 @@ comparator('Iowa St','Duke')
 
 
 
+comparator('Virginia Tech','Florida')
 
 
 
