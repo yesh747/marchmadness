@@ -124,3 +124,10 @@ predictRound('Y', 'R1')
 print('='*50)
 predictRound('Z', 'R1')
 
+
+# TODO:
+#    1. Finish bracket solver generator.
+#    2. Test algorithm on previous years.
+#    3. Try and learn some scikit-learn stuff
+
+
